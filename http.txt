@@ -16,9 +16,13 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
+http://home.yxgz.club:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
@@ -36,15 +40,21 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.cbase.cc:6969/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.dmcomic.org:2710/announce
+
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.plx.im:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -52,7 +62,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tritan.gg:8080/announce
+http://tracker.sbsub.com:2710/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -88,13 +98,9 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
